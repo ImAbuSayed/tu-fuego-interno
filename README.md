@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tu-fuego-interno/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Tu fuego interno](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-fuego-interno/) |
+| **Get License** | [Get a Licensing Quote for Tu fuego interno](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-fuego-interno/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `ddab7f16b3f784ddd8b2435c0475bdee6bd81ffa09b63e217eae0fbd922ece1b` |
 | **Timestamp** | June 17, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
