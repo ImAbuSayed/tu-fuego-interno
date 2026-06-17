@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Baby, siento tu fuego interno quemándome, yeah
+> You got me crazy, esta noche no hay escapatoria
+> Tus ojos me llaman, un juego de luces y victoria
+> Acércate, mami, hagamos nuestra propia historia
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
